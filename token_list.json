@@ -1,0 +1,62 @@
+{
+    "name": "ApeFiSwap Tokens",
+    "logoURI": "https://github.com/ApeFiSwap/whitelisted-assets/blob/main/apefiswap.png",
+    "keywords": [
+        "apefiswap",
+        "defi",
+        "derivatives",
+        "apefi",
+        "apeswap"
+    ],
+    "timestamp": "2024-12-16T23:01:51.032Z",
+    "tags": {
+        "apefiswap": {
+            "name": "apefiswap",
+            "description": "Ride the DeFi Wave, Swing with ApeFiSwap."
+        },
+        "index": {
+            "name": "Index ApeFiSwap",
+            "description": "Ride the DeFi Wave, Swing with ApeFiSwap."
+        }
+    },
+    "version": {
+        "major": 2,
+        "minor": 56,
+        "patch": 1
+    },
+    "tokens": [
+        {
+            "chainId": 33139,
+            "address": "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+            "symbol": "WAPE",
+            "name": "Wrapped APE Coin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ApeFiSwap/whitelisted-assets/refs/heads/main/0x48b62137EdfA95a428D35C09E44256a739F6B557/logo.svg",
+            "tags": [
+			"wrappedape"
+			]
+        },
+        {
+            "chainId": 33139,
+            "address": "0xcF800F4948D16F23333508191B1B1591daF70438",
+            "symbol": "ApeETH",
+            "name": "Ape ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ApeFiSwap/whitelisted-assets/refs/heads/main/0xcF800F4948D16F23333508191B1B1591daF70438/logo.svg",
+            "tags": [
+                "apeeth"
+            ]
+        },
+        {
+            "chainId": 33139,
+            "address": "0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4",
+            "symbol": "ApeUSD",
+            "name": "Ape USD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ApeFiSwap/whitelisted-assets/refs/heads/main/0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4/logo.svg",
+            "tags": [
+                "apeusd"
+            ]
+        }      
+    ]
+}
